@@ -1,0 +1,8 @@
+[package]
+name = "taskr"
+version = "0.1.0"
+authors = ["Daniel"]
+edition = "2018"
+
+[dependencies]
+ansi_term = "0.11"
